@@ -1,0 +1,25 @@
+ <!--breadcrumb başlangıç-->
+    <div class="container">
+        <ul class="breadcrumb">
+            <li class="breadcrumb-item">
+                <a href="#" class="breadcrumb-link">Anasayfa</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="#" class="breadcrumb-link">Hakkımızda</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="#" class="breadcrumb-link">Ekibimiz</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="#" class="breadcrumb-link">Galeri</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="#" class="breadcrumb-link">İletişim</a>
+            </li>
+            <li class="breadcrumb-item">
+                <a href="#" class="breadcrumb-link">Konum</a>
+            </li>
+
+        </ul>
+    </div>
+    <!--breadcrumb bitiş-->
